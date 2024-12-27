@@ -21,7 +21,7 @@
 } */
 
 #page {
-    margin: 60px 80px 137px;
+    margin: 60px 80px 0;
 }
 
 #title {
@@ -58,7 +58,7 @@ main {
     
     p {
         color: #333333;
-        margin-bottom: 64px;
+        margin-bottom: 40px;
     }
 }
 
@@ -69,4 +69,18 @@ ul {
         font-size: 28px;
         margin-bottom: 4px;
     }
+}
+
+#df {
+    margin-bottom: 40px;
+}
+
+#description {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 48px;
+    font-family: "Alice", serif;
 }
